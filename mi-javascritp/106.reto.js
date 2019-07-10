@@ -4,4 +4,4 @@ function checkSign(num) {
          " zero";
 }
 
-checkSign(10);
+checkSign(10);  
